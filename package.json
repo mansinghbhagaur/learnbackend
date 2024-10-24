@@ -1,0 +1,12 @@
+{
+  "name": "learnbackend",
+  "version": "1.0.0",
+  "description": "node javascript learncode man singh bhagaur",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Man Singh Bhagaur",
+  "license": "ISC"
+}
